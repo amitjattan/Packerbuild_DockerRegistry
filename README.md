@@ -1,4 +1,4 @@
-# Packer Example - Ubuntu 16.04 minimal Vagrant Box
+### Packer Example - Ubuntu 16.04 minimal Vagrant Box
 
 **Current Ubuntu Version Used**: 16.04.2
 
